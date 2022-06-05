@@ -117,7 +117,7 @@ function updateFish(val)
             document.getElementById('dietInfo').innerHTML = "Diet: Carnivore";
             document.getElementById('temperamentInfo').innerHTML = "Temperament: Peaceful";
             document.getElementById('fishImage').src = "./img/royal-gramma-1.jpg";
-            document.getElementById('Habitat').innerHTML = "Habitat: Their natural range covers the Bahamas, Venezuela, Antilles, Bermuda, and through the waters surrounding Central America and the northern part of South America.";
+            document.getElementById('Habitat').innerHTML = "Habitat: Their natural range covers the Bahamas, Venezuela, Antilles, Bermuda, and through the waters surrounding Central America and the northern part of South America.";
             document.getElementById('AdditionalInfo').src = "Additional Info: It is also known as fairy basslet and it is a species in the family Grammaitidae. They are generally peaceful fish, but are very protective of their territories and are known for chasing out other small fish. The royal gramma should not be kept with its own kind unless in a formed male-female pair. It should also not be kept with larger, aggressive fish that will eat them. They are, however, resistant to most diseases and make very good beginner fish. It will also accept frozen and meaty foods, such as brine shrimp and mysis shrimp in the wild. The royal gramma is very easy to feed; but rotating their foods is said to keep them from becoming picky. Captive royal gramma will also eat flake and pellet foods.";
             break;
         case 11:
