@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\css",
+    "\\js"
   ],
-  "SelectedNode": "\\C:\\Users\\Bhargavi\\Source\\Repos\\Assignment_LookAndFeel",
+  "SelectedNode": "\\css\\main.css",
   "PreviewInSolutionExplorer": false
 }
